@@ -52,6 +52,23 @@
     display: inline;
 }
 
-li a {
+.lia {
     color: lightgray;
+}
+
+.h1a {
+    font-size: 25px;
+    color: black
+}
+
+.bglight {
+    background:rgb(235, 237, 240);
+}
+
+.margin1 {
+    margin: 20px 30px 40px 30px;
+}
+
+.margin2 {
+     margin: 20px 50px 40px 50px;
 }
